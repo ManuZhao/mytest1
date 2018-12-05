@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.newcore.core.supports:header-support:3.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/newcore/core/supports/header-support/3.0.0-SNAPSHOT/header-support-3.0.0-20170421.071504-6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/newcore/core/supports/header-support/3.0.0-SNAPSHOT/header-support-3.0.0-20170421.071504-6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/newcore/core/supports/header-support/3.0.0-SNAPSHOT/header-support-3.0.0-20170421.071504-6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

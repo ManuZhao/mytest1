@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="csbps-service-app:war">
+    <output-path>E:/新一代/branch_V1.0.14/csbps-parent/csbps-service-app/target</output-path>
+    <root id="archive" name="csbps-service-app-1.0.4_P5.war">
+      <element id="artifact" artifact-name="csbps-service-app:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.halo:clic-log:coldnoodle.2.3.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/halo/clic-log/coldnoodle.2.3.4-SNAPSHOT/clic-log-coldnoodle.2.3.4-20180523.082521-11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/halo/clic-log/coldnoodle.2.3.4-SNAPSHOT/clic-log-coldnoodle.2.3.4-20180523.082521-11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/halo/clic-log/coldnoodle.2.3.4-SNAPSHOT/clic-log-coldnoodle.2.3.4-20180523.082521-11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

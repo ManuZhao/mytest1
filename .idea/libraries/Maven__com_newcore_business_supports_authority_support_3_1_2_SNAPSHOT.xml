@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.newcore.business.supports:authority-support:3.1.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/newcore/business/supports/authority-support/3.1.2-SNAPSHOT/authority-support-3.1.2-20180425.051833-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/newcore/business/supports/authority-support/3.1.2-SNAPSHOT/authority-support-3.1.2-20180425.051833-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/newcore/business/supports/authority-support/3.1.2-SNAPSHOT/authority-support-3.1.2-20180425.051833-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

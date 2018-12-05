@@ -1,0 +1,40 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="csbps-web-app:war exploded">
+    <output-path>E:/新一代/branch_V1.0.14/csbps-parent/csbps-web-app/target/csbps-web-app-1.0.4_P5</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="csbps-web-app" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="csbps-model-1.0.4_P5.jar">
+            <element id="module-output" name="csbps-model" />
+          </element>
+          <element id="archive" name="csbps-service-api-1.0.4_P5.jar">
+            <element id="module-output" name="csbps-service-api" />
+          </element>
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/newcore/core/supports/header-support/3.0.0-SNAPSHOT/header-support-3.0.0-20170421.071504-6.jar" output-file-name="header-support-3.0.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/newcore/core/supports/datagrid-support/3.1.2-SNAPSHOT/datagrid-support-3.1.2-20180409.061242-3.jar" output-file-name="datagrid-support-3.1.2-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/newcore/core/supports/fileload-support/3.1.0-SNAPSHOT/fileload-support-3.1.0-20171122.035022-2.jar" output-file-name="fileload-support-3.1.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/newcore/core/supports/cache-support/3.0.0-SNAPSHOT/cache-support-3.0.0-20170421.071504-6.jar" output-file-name="cache-support-3.0.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/newcore/core/supports/cache-session/3.1.0-SNAPSHOT/cache-session-3.1.0-20171122.035020-11.jar" output-file-name="cache-session-3.1.0-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: com.newcore.core.supports:auth-uaa:3.1.7-SNAPSHOT" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/newcore/core/supports/health-checker/3.0.0-SNAPSHOT/health-checker-3.0.0-20170421.071508-5.jar" output-file-name="health-checker-3.0.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/newcore/business/supports/authority-support/3.1.2-SNAPSHOT/authority-support-3.1.2-20180425.051833-1.jar" output-file-name="authority-support-3.1.2-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: com.newcore.business.supports:batch-admin:3.0.0-SNAPSHOT" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/newcore/business/supports/session-router/3.2.0-SNAPSHOT/session-router-3.2.0-20171117.012427-11.jar" output-file-name="session-router-3.2.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/newcore/business/supports/task-support/3.0.0-SNAPSHOT/task-support-3.0.0-20170328.052249-13.jar" output-file-name="task-support-3.0.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/newcore/business/supports/cms-support/3.0.0-SNAPSHOT/cms-support-3.0.0-20170328.052250-13.jar" output-file-name="cms-support-3.0.0-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-jaxrs:1.9.13" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.13" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.13" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/newcore/business/supports/dict-support/global.3.0.36-SNAPSHOT/dict-support-global.3.0.36-20180917.030453-1.jar" output-file-name="dict-support-global.3.0.36-SNAPSHOT.jar" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="E:/新一代/branch_V1.0.14/csbps-parent/csbps-web-app/target/csbps-web-app-1.0.4_P5/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="csbps-web-app/web/Web" />
+    </root>
+  </artifact>
+</component>

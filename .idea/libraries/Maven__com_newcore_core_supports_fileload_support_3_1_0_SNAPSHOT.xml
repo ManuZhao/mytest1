@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.newcore.core.supports:fileload-support:3.1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/newcore/core/supports/fileload-support/3.1.0-SNAPSHOT/fileload-support-3.1.0-20171122.035022-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/newcore/core/supports/fileload-support/3.1.0-SNAPSHOT/fileload-support-3.1.0-20171122.035022-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/newcore/core/supports/fileload-support/3.1.0-SNAPSHOT/fileload-support-3.1.0-20171122.035022-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

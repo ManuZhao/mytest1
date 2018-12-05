@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.newcore.business.supports:dict-support:global.3.0.36-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/newcore/business/supports/dict-support/global.3.0.36-SNAPSHOT/dict-support-global.3.0.36-20180917.030453-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/newcore/business/supports/dict-support/global.3.0.36-SNAPSHOT/dict-support-global.3.0.36-20180917.030453-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/newcore/business/supports/dict-support/global.3.0.36-SNAPSHOT/dict-support-global.3.0.36-20180917.030453-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

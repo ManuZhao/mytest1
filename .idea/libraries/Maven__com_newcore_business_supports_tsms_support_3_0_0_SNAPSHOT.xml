@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.newcore.business.supports:tsms-support:3.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/newcore/business/supports/tsms-support/3.0.0-SNAPSHOT/tsms-support-3.0.0-20170328.052248-13.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/newcore/business/supports/tsms-support/3.0.0-SNAPSHOT/tsms-support-3.0.0-20170328.052248-13-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/newcore/business/supports/tsms-support/3.0.0-SNAPSHOT/tsms-support-3.0.0-20170328.052248-13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

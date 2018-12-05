@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://E:/java_code_local/branch_V1.0.0/csbps-datacorrect-app" />
+    <file type="web" url="file://E:/java_code_local/pcms-datagov-app" />
+    <file type="web" url="file://E:/新一代/branch_V1.0.14/csbps-parent/csbps-access-app" />
+    <file type="web" url="file://E:/新一代/branch_V1.0.14/csbps-parent/csbps-batch-app" />
+    <file type="web" url="file://E:/新一代/branch_V1.0.14/csbps-parent/csbps-mobile-app" />
+    <file type="web" url="file://E:/新一代/branch_V1.0.14/csbps-parent/csbps-service-app" />
+    <file type="web" url="file://E:/新一代/branch_V1.0.14/csbps-parent/csbps-web-app" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="E:/java_code_local/pom.xml" />
+        <option value="G:/qqServerProject/pom.xml" />
+        <option value="E:/新一代/branch_V1.0.14/csbps-parent/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="E:/java_code_local/pcms-datagov-api/pom.xml" />
+        <option value="E:/java_code_local/pcms-datagov-app/pom.xml" />
+        <option value="E:/java_code_local/pcms-model/pom.xml" />
+        <option value="E:/java_code_local/pom.xml" />
+        <option value="E:/新一代/branch_V1.0.14/csbps-parent/csbps-access-app/pom.xml" />
+        <option value="E:/新一代/branch_V1.0.14/csbps-parent/csbps-auth/pom.xml" />
+        <option value="E:/新一代/branch_V1.0.14/csbps-parent/csbps-batch-app/pom.xml" />
+        <option value="E:/新一代/branch_V1.0.14/csbps-parent/csbps-db/pom.xml" />
+        <option value="E:/新一代/branch_V1.0.14/csbps-parent/csbps-mobile-app/pom.xml" />
+        <option value="E:/新一代/branch_V1.0.14/csbps-parent/csbps-model/pom.xml" />
+        <option value="E:/新一代/branch_V1.0.14/csbps-parent/csbps-service-api/pom.xml" />
+        <option value="E:/新一代/branch_V1.0.14/csbps-parent/csbps-service-app/pom.xml" />
+        <option value="E:/新一代/branch_V1.0.14/csbps-parent/csbps-web-app/pom.xml" />
+        <option value="E:/新一代/branch_V1.0.14/csbps-parent/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectKey">
+    <option name="state" value="project://63537948-39a4-48a0-9c97-34259a0fa913" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

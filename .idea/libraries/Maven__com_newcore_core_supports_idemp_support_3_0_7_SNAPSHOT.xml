@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.newcore.core.supports:idemp-support:3.0.7-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/newcore/core/supports/idemp-support/3.0.7-SNAPSHOT/idemp-support-3.0.7-20171206.012616-8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/newcore/core/supports/idemp-support/3.0.7-SNAPSHOT/idemp-support-3.0.7-20171206.012616-8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/newcore/core/supports/idemp-support/3.0.7-SNAPSHOT/idemp-support-3.0.7-20171206.012616-8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

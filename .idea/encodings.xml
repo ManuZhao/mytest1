@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://E:/java_code_local" charset="UTF-8" />
+    <file url="file://E:/java_code_local/branch_V1.0.0/csbps-datacorrect-app" charset="UTF-8" />
+    <file url="file://E:/新一代/branch_V1.0.14/csbps-parent" charset="UTF-8" />
+    <file url="file://E:/新一代/branch_V1.0.14/csbps-parent/csbps-access-app" charset="UTF-8" />
+    <file url="file://E:/新一代/branch_V1.0.14/csbps-parent/csbps-auth" charset="UTF-8" />
+    <file url="file://E:/新一代/branch_V1.0.14/csbps-parent/csbps-batch-app" charset="UTF-8" />
+    <file url="file://E:/新一代/branch_V1.0.14/csbps-parent/csbps-db" charset="UTF-8" />
+    <file url="file://E:/新一代/branch_V1.0.14/csbps-parent/csbps-mobile-app" charset="UTF-8" />
+    <file url="file://E:/新一代/branch_V1.0.14/csbps-parent/csbps-model" charset="UTF-8" />
+    <file url="file://E:/新一代/branch_V1.0.14/csbps-parent/csbps-service-api" charset="UTF-8" />
+    <file url="file://E:/新一代/branch_V1.0.14/csbps-parent/csbps-service-app" charset="UTF-8" />
+    <file url="file://E:/新一代/branch_V1.0.14/csbps-parent/csbps-web-app" charset="UTF-8" />
+  </component>
+</project>

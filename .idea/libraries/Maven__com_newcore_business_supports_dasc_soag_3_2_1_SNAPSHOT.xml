@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.newcore.business.supports:dasc-soag:3.2.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/newcore/business/supports/dasc-soag/3.2.1-SNAPSHOT/dasc-soag-3.2.1-20180129.004421-15.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/newcore/business/supports/dasc-soag/3.2.1-SNAPSHOT/dasc-soag-3.2.1-20180129.004421-15-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/newcore/business/supports/dasc-soag/3.2.1-SNAPSHOT/dasc-soag-3.2.1-20180129.004421-15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

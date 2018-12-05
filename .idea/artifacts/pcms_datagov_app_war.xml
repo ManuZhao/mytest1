@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pcms-datagov-app:war">
+    <output-path>E:/java_code_local/pcms-datagov-app/target</output-path>
+    <root id="archive" name="pcms-datagov-app-1.0.0.war">
+      <element id="artifact" artifact-name="pcms-datagov-app:war exploded" />
+    </root>
+  </artifact>
+</component>

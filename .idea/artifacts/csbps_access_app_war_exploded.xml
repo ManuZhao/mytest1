@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="csbps-access-app:war exploded">
+    <output-path>E:/新一代/branch_V1.0.14/csbps-parent/csbps-access-app/target/csbps-access-app-1.0.4_P5</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="csbps-access-app" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/newcore/core/supports/header-support/3.0.0-SNAPSHOT/header-support-3.0.0-20170421.071504-6.jar" output-file-name="header-support-3.0.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/newcore/core/supports/cache-support/3.0.0-SNAPSHOT/cache-support-3.0.0-20170421.071504-6.jar" output-file-name="cache-support-3.0.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/newcore/core/supports/cache-session/3.1.0-SNAPSHOT/cache-session-3.1.0-20171122.035020-11.jar" output-file-name="cache-session-3.1.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/newcore/core/supports/health-checker/3.0.0-SNAPSHOT/health-checker-3.0.0-20170421.071508-5.jar" output-file-name="health-checker-3.0.0-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.1.1" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/newcore/business/supports/dict-support/global.3.0.36-SNAPSHOT/dict-support-global.3.0.36-20180917.030453-1.jar" output-file-name="dict-support-global.3.0.36-SNAPSHOT.jar" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="E:/新一代/branch_V1.0.14/csbps-parent/csbps-access-app/target/csbps-access-app-1.0.4_P5/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="csbps-access-app/web/Web" />
+    </root>
+  </artifact>
+</component>
